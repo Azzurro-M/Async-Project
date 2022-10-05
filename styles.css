@@ -1,0 +1,28 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("background.jpeg");
+}
+
+.table {
+  place-items: center;
+  background-color: white;
+  border: 1px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding: 20px;
+}
+
+tbody {
+  font-size: 25px;
+  align-items: center;
+}
+
+th {
+  font-size: 30px;
+  padding: 10px;
+}
